@@ -1,0 +1,11 @@
+.btn-custom-om30 {
+    color: #fff;
+    background-color: #741233;
+    border: 1px solid #270611;
+}
+
+.btn-custom-om30:hover {
+    color: #fff;
+    background-color: #741233d2;
+    border: 1px solid #270611;
+}
