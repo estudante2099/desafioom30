@@ -1,0 +1,1 @@
+Uploads irão aqui (fotos dos alunos)
